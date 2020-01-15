@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.104.0](https://www.github.com/googleapis/java-bigquery/compare/v1.103.0...v1.104.0) (2020-01-15)
+
+
+### Features
+
+* new sample - load: GCS parquet replace existing table ([#101](https://www.github.com/googleapis/java-bigquery/issues/101)) ([c423c91](https://www.github.com/googleapis/java-bigquery/commit/c423c91f7689bfc29a94b452842077e2622c621a))
+* new sample - Tables: Delete table ([#90](https://www.github.com/googleapis/java-bigquery/issues/90)) ([8a1caa6](https://www.github.com/googleapis/java-bigquery/commit/8a1caa64d139c937e3e2d2dfc10a64e87c240ddc))
+* new sample - Tables: Relax column ([#89](https://www.github.com/googleapis/java-bigquery/issues/89)) ([6f95631](https://www.github.com/googleapis/java-bigquery/commit/6f9563160670a7cd2a75afe9774e91180c867206))
+* sample - Get dataset properties ([#98](https://www.github.com/googleapis/java-bigquery/issues/98)) ([743bc0a](https://www.github.com/googleapis/java-bigquery/commit/743bc0a552875b773becbd517a063e29193a6b49))
+* sample - run a legacy SQL query ([#97](https://www.github.com/googleapis/java-bigquery/issues/97)) ([7fedacd](https://www.github.com/googleapis/java-bigquery/commit/7fedacdc5c924de8b25aac59d00018704e0d5af8))
+
+
+### Dependencies
+
+* update core dependencies ([#93](https://www.github.com/googleapis/java-bigquery/issues/93)) ([f95b179](https://www.github.com/googleapis/java-bigquery/commit/f95b1798f6a09ff03b195ae7540f9395386c0ea5))
+* update dependency com.google.apis:google-api-services-bigquery to v2-rev20191211-1.30.3 ([#105](https://www.github.com/googleapis/java-bigquery/issues/105)) ([8eedb54](https://www.github.com/googleapis/java-bigquery/commit/8eedb5490f78333c9af97279a68120850c057f2a))
+* update dependency com.google.truth:truth to v1.0.1 ([#103](https://www.github.com/googleapis/java-bigquery/issues/103)) ([f41a53c](https://www.github.com/googleapis/java-bigquery/commit/f41a53c33942cba59242f515906ec57503549122))
+* update dependency org.threeten:threetenbp to v1.4.1 ([88b420e](https://www.github.com/googleapis/java-bigquery/commit/88b420ea817807bdbe25f803f98352fa5a7d6ba4))
+
 ## [1.103.0](https://www.github.com/googleapis/java-bigquery/compare/1.102.0...v1.103.0) (2020-01-08)
 
 
